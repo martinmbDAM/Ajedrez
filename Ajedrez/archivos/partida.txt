@@ -1,0 +1,8 @@
+1. e4        b6
+2. Cf3       Ca6
+3. Ab5       Ab7
+4. 0-0       c5
+5. Te1       Dc7
+6. Tf1       Td8
+7. Ac4       d6
+8. Ab5+    
